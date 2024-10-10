@@ -25,6 +25,9 @@ Utilizando Aprendizado de Máquina para prever pegada de carbono a partir de dad
 ## 📁Acesso ao projeto
 
 Você pode acessar os arquivos do projeto aqui
+- gráficos
+- código
+- [gitignore](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/.gitignore)
 
 ## 🧑‍💻Desenvolvedores do Projeto
 

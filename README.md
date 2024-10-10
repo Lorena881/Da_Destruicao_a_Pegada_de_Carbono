@@ -18,6 +18,9 @@ Utilizando Aprendizado de Máquina para prever pegada de carbono a partir de dad
 ## 💻Tecnologias utilizadas
 
 - `Jupyter`
+- `Pandas`
+- `Seaborn`
+- `RandomForestRegressor`
 
 ## 📁Acesso ao projeto
 

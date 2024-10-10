@@ -36,7 +36,7 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172424739?v=4" width=115><br><sub>Lorena Ribeiro Nascimento</sub>](https://github.com/Lorena881) |  
 
-| [<img loading="lazy" src="" width=115><br><sub>Lucas Nascimento da Silva </sub>]() |  
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425487?v=4" width=115><br><sub>Lucas Nascimento da Silva </sub>](https://github.com/lucasnsilva7) |  
 
 ## 📚Referências
 

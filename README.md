@@ -41,3 +41,4 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 ## 📚Referências
 
 ALURA. Como escrever um README incrível no seu Github. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 10 out. 2024.
+

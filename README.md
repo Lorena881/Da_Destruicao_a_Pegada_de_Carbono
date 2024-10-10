@@ -7,15 +7,15 @@
 # Índice 
 
 * [📝 Descrição do Projeto](#descrição-do-projeto)
-* [🛠️ Tecnologias utilizadas](#tecnologias-utilizadas)
+* [💻 Tecnologias utilizadas](#tecnologias-utilizadas)
 * [📁 Acesso ao projeto](#acesso-ao-projeto)
-* [👥 Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
+* [🧑‍💻 Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 * [📚 Referências](#referências)
 
 ## 📝Descrição do Projeto
 Utilizando Aprendizado de Máquina para prever pegada de carbono a partir de dados de área preservadas e destruídas.
 
-## 🛠️Tecnologias utilizadas
+## 💻Tecnologias utilizadas
 
 - `Jupyter`
 
@@ -23,7 +23,7 @@ Utilizando Aprendizado de Máquina para prever pegada de carbono a partir de dad
 
 Você pode acessar os arquivos do projeto aqui
 
-## 👥Desenvolvedores do Projeto
+## 🧑‍💻Desenvolvedores do Projeto
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Maria Amador Souza</sub>](https://github.com/settings/profile) |  
 

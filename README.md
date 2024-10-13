@@ -21,7 +21,13 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 - `Jupyter`
 - `Pandas`
 - `Seaborn`
+- `Matplotlib`
+- `Statistics`
 - `RandomForestRegressor`
+- `mean_squared_error`
+- `LinearRegression`
+- `train_test_split`
+- `warnings`
 
 ## 📁Acesso ao projeto
 

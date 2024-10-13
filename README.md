@@ -29,6 +29,9 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 - `train_test_split`
 - `warnings`
 - `sklearn`
+- `cross_val_score`
+- `optuna`
+- `plotly.express`
 
 ## 📁Acesso ao projeto
 

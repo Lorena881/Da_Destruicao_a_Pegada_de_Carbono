@@ -26,7 +26,7 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- [Explicação teórica](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Explica%C3%A7%C3%A3o%20te%C3%B3rica) 
+- [Explicação teórica](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Explica%C3%A7%C3%A3o%20te%C3%B3rica.md) 
 - [Gráficos](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Gr%C3%A1ficos)
 - código
 - teste de modelo 

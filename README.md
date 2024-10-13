@@ -28,6 +28,7 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 - `LinearRegression`
 - `train_test_split`
 - `warnings`
+- `sklearn`
 
 ## 📁Acesso ao projeto
 

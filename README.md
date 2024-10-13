@@ -14,7 +14,7 @@
 
 ## 📝Descrição do Projeto
 
-O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina de aprendizado de máquina. Tal projeto visa prever a pegada de carbono a partir de dados sobre áreas preservadas e destruídas. Para isso, o método de aprendizagem de máquina empregado foi o -----. Além disso, para obter o target de pegada de carbono, foram usados como atributos -----. É importante, também, mencionar que o DataFrame utilizado possui diversas unidades de medias. Assim, para o melhor desenvolvimento do projeto, foi escolhido trabalhar com ------ para a unidade de medida.
+O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina de aprendizado de máquina. Tal projeto visa prever a pegada de carbono a partir de dados sobre áreas preservadas e destruídas. Para isso, o método de aprendizagem de máquina empregado foi a floresta aleatória. Além disso, para obter o target de pegada de carbono, foram usados como atributos: área agrícola, área de pastagem, área florestal, área de pesca e áreas construídas ( "crop_land", "grazing_land", "forest_land", "fishing_ground","built_up_land"). É importante, também, mencionar que o DataFrame utilizado possui diversas unidades de medias. Assim, para o melhor desenvolvimento do projeto, foi escolhido trabalhar com "BiocapTotGHA" para a unidade de medida.
 
 ## 💻Tecnologias utilizadas
 
@@ -26,8 +26,10 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
+- a teoria
 - gráficos
 - código
+- teste de modelo 
 - [gitignore](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/.gitignore)
 
 ## 🧑‍💻Desenvolvedores do Projeto

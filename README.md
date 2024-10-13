@@ -36,9 +36,10 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- [Explicação teórica](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Explica%C3%A7%C3%A3o%20te%C3%B3rica.md) 
+- [Explicação teórica](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Explica%C3%A7%C3%A3o%20te%C3%B3rica.md)
 - [Reino_de_∑L²_Projeto_Final]
 - [Teste regressão linear](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Teste%20regress%C3%A3o%20linear.ipynb)
+- [Gráficos](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/tree/main/Gr%C3%A1ficos)
 - [Referências](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/Refer%C3%AAncias.md)
 - [gitignore](https://github.com/Lorena881/Da_Destruicao_a_Pegada_de_Carbono/blob/main/.gitignore)
 

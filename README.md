@@ -26,7 +26,7 @@ O projeto "Da destruição a pegada de carbono" foi desenvolvido na disciplina d
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- a teoria
+- Explicação teórica
 - gráficos
 - código
 - teste de modelo 

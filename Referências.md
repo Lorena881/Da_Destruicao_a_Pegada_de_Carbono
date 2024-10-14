@@ -1,6 +1,6 @@
 ALURA. Como escrever um README incrível no seu Github. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 10 out. 2024.
 
-Aquivos didáticos disponibilizados pelo professor Dr. Daniel Roberto Cassar na matéria "Aprendizado de máquina", são eles: "ATP-203 4.0 - Split de dados de treino e teste"; "ATP-203 3.0 - Modelo linear e baseline"; "ATP-203 5.1 - Floresta aleatória"; "ATP-203 6.1 - Otimização de hiperparâmetros com optuna"
+Aquivos didáticos disponibilizados pelo professor Dr. Daniel Roberto Cassar na matéria "Aprendizado de máquina", são eles: "ATP-203 4.0 - Split de dados de treino e teste"; "ATP-203 3.0 - Modelo linear e baseline"; "ATP-203 5.1 - Floresta aleatória"; "ATP-203 6.1 - Otimização de hiperparâmetros com optuna"; "ATP-203 8.0 - A matrix de covariância e a matriz de correlação"
 
 Biblioteca optuna: Optuna: A hyperparameter optimization framework — Optuna 2.10.0 documentation. Disponível em: <https://optuna.readthedocs.io/en/stable/index.html>.
 
